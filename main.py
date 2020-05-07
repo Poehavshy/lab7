@@ -6,3 +6,9 @@ def main(): #commit 2
     
 def summ(a,b): #commit 3
     return a + b #commit 3
+
+
+def div(a,b): #commit 4
+    if b == 0: #commit 4
+        return None #commit 4
+    return a / b #commit 4
