@@ -12,3 +12,7 @@ def div(a,b): #commit 4
     if b == 0: #commit 4
         return None #commit 4
     return a / b #commit 4
+
+
+def mul(a,b): #commit 5
+    return a * b #commit 5
