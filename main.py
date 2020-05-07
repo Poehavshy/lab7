@@ -35,3 +35,8 @@ def sub(a,b): #commit 6
 
 def echo(s): #commit 8
     print(s) #commit 8
+    
+    
+if __name__ == '__main__': #commit 9
+    main() #commit 9
+    
