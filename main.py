@@ -31,3 +31,7 @@ def mul(a,b): #commit 5
 
 def sub(a,b): #commit 6
     return a - b #commit 6
+
+
+def echo(s): #commit 8
+    print(s) #commit 8
