@@ -16,3 +16,7 @@ def div(a,b): #commit 4
 
 def mul(a,b): #commit 5
     return a * b #commit 5
+
+
+def sub(a,b): #commit 6
+    return a - b #commit 6
