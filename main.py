@@ -1,5 +1,16 @@
 import datetime #commit 1
 
+
+def test1(): #commit 7
+    print(summ(5,3)) #commit 7
+    print(sub(10, 4)) #commit 7
+    
+    
+def test2(): #commit 7
+    print(div(10,2)) #commit 7
+    print(mul(2,6)) #commit 7
+    
+    
 def main(): #commit 2
     print('MAIN') #commit 2
 
