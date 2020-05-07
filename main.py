@@ -39,4 +39,6 @@ def echo(s): #commit 8
     
 if __name__ == '__main__': #commit 9
     main() #commit 9
-    
+    test1() #commit 10
+    test2() #commit 10
+    print("OK") #commit 10
